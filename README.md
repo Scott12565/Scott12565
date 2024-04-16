@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a front-end Developer proficient in html, css and javascript I'm Skilled in React.js and Tailwind css and Rest API
+I'm a front-end Developer proficient in html, css and javascript I'm Skilled in React.js, Tailwind css and Rest API
 
 * 🌍  I'm based in Johannesburg, Gauteng, South Africa
 * 🧠  I'm learning Next.js
